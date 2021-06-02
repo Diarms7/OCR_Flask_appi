@@ -1,0 +1,7 @@
+flask
+flask_restful
+opencv-python
+pytesseract
+Pillow
+firebase-admin
+google-cloud
